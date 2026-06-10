@@ -628,7 +628,6 @@ footer {
   color: rgba(255,255,255,0.45);
 }
 
-/* ── UTILIDADES ── */
 .etiqueta {
   display: inline-block;
   background: var(--oro);
