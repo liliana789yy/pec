@@ -508,7 +508,7 @@ main {
   text-align: center;
 }
 
-.contacto-item h4 {
+.contacto-item h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 0.78rem;
   font-weight: 700;
@@ -606,7 +606,7 @@ footer {
   gap: 20px;
 }
 
-.footer-col h4 {
+.footer-col h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 0.75rem;
   font-weight: 700;
