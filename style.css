@@ -1,7 +1,4 @@
-/* ===================================================
-   REPOSITORIO DIGITAL EDUCATIVO – EPO 5
-   Paleta institucional: verde oscuro + blanco + gris
-   =================================================== */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&family=Open+Sans:wght@400;600&display=swap");
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&family=Open+Sans:wght@400;600&display=swap');
 
@@ -377,7 +374,7 @@ main {
 
 .recurso-video iframe {
   width: 100%;
-  aspect-ratio: 16/9;
+  height: 200px;
   border: none;
   border-radius: 4px;
 }
